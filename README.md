@@ -1,4 +1,4 @@
-# List Courses - Angular ⭐
+# List Course - Angular ⭐
 
 <h2>💡 Descrição</h2>
 <p align="center">
