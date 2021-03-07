@@ -12,6 +12,9 @@ Angular 8
 <h2>🛠️ Back End: </h2>
 Node JS
 
+<h2>🛠️ Como rodar o programa: </h2>
+>> Na pasta raiz 'course-manager', chamar o comando "ng serve".
+>> Na pasta 'servers/course-manager-servers', chamar o arquivo serve.js com o comando "node serve.js".
 
 <h3>🔗 Linkedin: </h3>
 https://www.linkedin.com/in/anabeatrizdsm/
